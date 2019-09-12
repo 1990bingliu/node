@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello 3D Earth</title>
+    <script src="CesiumUnminified/Cesium.js"></script>
+    <style>
+        @import url(CesiumUnminified/Widgets/widgets.css);
+        html, body, #cesiumContainer {
+            width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <button type="button" onclick="btnHome();">home</button>
+        <button type="button" onclick="btnNowView();">now camera</button>
+        <select name="viewCrossing" id="viewCrossing">
+            <option value="home">==前往路口==</option>
+            <option value="crossing1">大和路口</option>
+            <option value="crossing2">锦鲤站右转路口</option>
+            <option value="crossing3">大布头站左转路口</option>
+            <option value="crossing4">东庵站直行路口</option>
+        </select>
+        <button type="button" onclick="">pick</button>
+        <label><input type="checkbox" class="viewPick" value="pick" /> pick point</label> |
+        <label class="msg-show"></label>
+    </div>
+    <div id="cesiumContainer"></div>
+    <script src="resource/jquery-3.4.1.min.js"></script>
+    <script src="resource/data.js"></script>
+    <script src="app.js"></script>
+    <script src="gis.js"></script>
+    <script src="fun.js"></script>
+</body>
+</html>

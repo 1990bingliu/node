@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "新澜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05040459097143, 22.716089955483895, 121.5840205202959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "石角头"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05139910561951, 22.7145368769181, 46.482510406159214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "河东"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05541741714856, 22.71116502891651, 53.79153930458125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "大布头"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.06025599743789, 22.708037081036153, 54.87973260834388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "大布头"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.06052560758931, 22.707157212860956, 54.910543596039226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "观城"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05694140362878, 22.70406280715784, 56.27182864473496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "河西"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05140200019098, 22.703718674203508, 59.68171025915156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "锦鲤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0439823077887, 22.703827743991862, 42.57747762645591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "世纪广场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.04442365189941, 22.697952516691775, 43.70841386372237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "大和"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.04448913385885, 22.692359401635837, 45.89665187619949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "文澜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.04443830263556, 22.68934509707295, 44.81561880234811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "碧澜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.04431257538445, 22.6863837892758, 52.587474769597655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "梅龙北"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.04314022185451, 22.67873803486835, 48.352911787331394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "清湖学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.03943535982602, 22.67340899693466, 49.38594621817551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "清龙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.03743826899391, 22.667849359875284, 59.79564900889382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "清湖"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.03142221376648, 22.66674434861794, 87.5214029464575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "东庵"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.04860843974876, 22.692639855680717, 55.94671482919686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "高新区西"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05381071547079, 22.6917843556509, 63.265903442433135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "高新区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.05844125387269, 22.691312263508117, 77.17058473194686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "高新区东"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.06537832961763, 22.69213452778792, 91.33149840119646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "下围"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.07292254183692, 22.69360379973271, 68.51106043975794]
+      }
+    }
+  ]
+}
